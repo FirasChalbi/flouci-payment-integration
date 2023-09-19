@@ -1,0 +1,22 @@
+@import url(https://fonts.googleapis.com/css?family=Raleway:400,700,600);
+.container{
+  padding: 20px;
+}
+
+.teal{
+  background-color: #ffc952 !important;
+  color: #444444 !important;
+}
+a{
+  color: #47b8e0 !important;
+}
+.message{
+  text-align: left;
+}
+.price1{
+	font-size: 40px;
+	font-weight: 200;
+	display: block;
+	text-align: center;
+}
+.ui.message p {margin: 5px;}
